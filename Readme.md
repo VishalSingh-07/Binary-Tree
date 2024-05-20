@@ -1,6 +1,6 @@
-# Striver SDE Binary Tree Sheet Solutions Code and Notes Repository 🚀
+# Striver SDE Binary Tree Sheet Solutions: Code and Notes Repository 🚀
 
-Welcome to the Striver SDE Binary Tree Sheet Solutions Codes and Notes Repository for C++ 🚀 
+Welcome to the Striver SDE Binary Tree Solutions Repository for C++ Codes and Notes 🚀 
 
 
 ### **[Striver Binary Tree Sheet Link](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)**
